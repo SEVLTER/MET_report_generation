@@ -1,0 +1,17 @@
+column,unit,processing_type
+TIMESTAMP,TS,
+RECORD,RN,
+batt_Avg,v,Avg
+airTemp_Avg,deg C,Avg
+rh,pct,Smp
+precip_Tot,mm,Tot
+parDen_Avg,umol/m2/s,Avg
+swRadIn_Avg,W/m2,Avg
+CS320_Z_Avg,degrees,Avg
+windSpd_Avg,m/s,Avg
+windSpd_Min,m/s,Min
+windSpd_Max,m/s,Max
+windDir,degrees,Smp
+dewPt_Avg,deg C,Avg
+vPress,kPa,Smp
+vPressSat,kPa,Smp
